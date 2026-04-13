@@ -14,11 +14,7 @@ Sadeq ZOUGARI, Researcher AKKODIS Research""" ;
                                  <http://purl.org/dc/terms/creator> """Rajesh PIRYANI, Researcher AKKODIS Research
 Sadeq ZOUGARI, Researcher AKKODIS Research""" ;
                                  <http://purl.org/dc/terms/description> "It is an ontology for Sustainable and Circular Production of Critical Mineral Raw Materials and Mining Waste Facilities. It aims to represent the key concepts and relationships involved in the life cycle of Mining Waste Facilities (MWFs). By capturing this life cycle—from exploration and exploitation to closure—the ontology enables decision support and reasoning within the SCIMIN-CRM platform." ;
-                                 <http://purl.org/dc/terms/license> """This ontology is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
-License URL:
-
-https://creativecommons.org/licenses/by/4.0/""" .
+                                 <http://purl.org/dc/terms/license> """https://creativecommons.org/licenses/by/4.0/""" .
 
 #################################################################
 #    Annotation properties
